@@ -1,0 +1,23 @@
+h3{
+    background-color: black;
+    color: white;
+    font-size: 28px !important;
+
+}
+button{
+    background-color: black;
+    color: white;
+
+}
+canvas{
+    border-width: 3px;
+    border-style: double;    
+    border-color: black;
+    border-radius: 10%;
+}
+button:hover{
+    background-color: darkslategrey;
+}
+body{
+    padding: 10px;
+}
